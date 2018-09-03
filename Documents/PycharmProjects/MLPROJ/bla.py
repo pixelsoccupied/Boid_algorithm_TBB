@@ -136,6 +136,6 @@ df2 = df2.apply(pd.to_datetime())
 df1 = df.loc[0:5, ['risk', 'inspection_date']]
 print("tHE TYPE IS --> ",'\n', df1.to_string())
 
-
+print ("Im just out here changing git stuff")
 
 
